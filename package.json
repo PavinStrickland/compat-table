@@ -32,7 +32,7 @@
     "regenerator-runtime": "^0.13.2",
     "traceur": "latest",
     "typescript": "latest",
-    "yargs": "^16.1.0"
+    "yargs": "^17.7.2"
   },
   "scripts": {
     "lint": "jshint .",
