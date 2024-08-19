@@ -29,7 +29,7 @@
     "jstransform": "latest",
     "lodash.pickby": "^4.6.0",
     "object.assign": "^4.0.4",
-    "regenerator-runtime": "^0.13.2",
+    "regenerator-runtime": "^0.14.0",
     "traceur": "latest",
     "typescript": "latest",
     "yargs": "^16.1.0"
